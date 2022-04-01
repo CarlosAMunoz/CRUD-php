@@ -45,7 +45,7 @@
                 <thead>
                     <tr>
                         <th> Title </th>
-                        <th> Descroption </th>
+                        <th> Description </th>
                         <th> Created At </th>
                         <th> Action </th>
                     </tr>
